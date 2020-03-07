@@ -1,2 +1,2 @@
 # ubuntu-bootstrap
-    curl -s https://raw.githubusercontent.com/ChillwindYeti/ubuntu-bootstrap/master/bootstrap.sh | sudo -E bash -
+    curl -s https://raw.githubusercontent.com/5aa/ubuntu-bootstrap/master/bootstrap.sh | sudo -E bash -
