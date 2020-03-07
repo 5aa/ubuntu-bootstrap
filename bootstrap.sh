@@ -24,8 +24,8 @@ apt-get install -y zathura vim tmux
 echo "Copying dotfiles and test scripts..."
 mkdir ~/scripts
 cd ~/scripts
-git clone https://github.com/ChillwindYeti/ubuntu-bootstrap
-git clone https://github.com/ChillwindYeti/gnome-terminal-colors
+git clone https://github.com/5aa/ubuntu-bootstrap
+git clone https://github.com/5aa/gnome-terminal-colors
 cd ubuntu-bootstrap
 cp .* ~
 cp term-colors.sh weather.sh ~/scripts
